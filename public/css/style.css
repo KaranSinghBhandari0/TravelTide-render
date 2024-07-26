@@ -208,7 +208,6 @@ body {
     margin: 0 5px;
 }
 
-/* carousel */
 .carousel-item {
     width: 100% !important;
     height: 550px;
@@ -221,7 +220,7 @@ body {
     border-bottom-right-radius: 1rem;
 }
 
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 650px) {
     .carousel-item {
         height: 350px;
     }
