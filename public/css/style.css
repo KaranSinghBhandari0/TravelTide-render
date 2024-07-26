@@ -220,7 +220,7 @@ body {
     border-bottom-right-radius: 1rem;
 }
 
-@media screen and (max-height: 650px) {
+@media screen and (max-width: 600px) {
     .carousel-item {
         height: 350px;
     }
